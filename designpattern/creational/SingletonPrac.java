@@ -1,4 +1,4 @@
-package DesignPattern;
+package designPattern;
 
 import javax.xml.crypto.Data;
 
@@ -39,3 +39,12 @@ public class SingletonPrac {
 
     }
 }
+
+/**
+ * Examples of Singleton Design Pattern
+ * 1. Preferences of an app
+ * 2. Logger of an app
+ * 3. Database of an app
+ * 4. print queue of an app
+ * 5. software driver of an app
+ */
